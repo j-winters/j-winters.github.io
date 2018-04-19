@@ -2,7 +2,7 @@
 layout: default
 ---
 
-My research uses experimental and statistical models to understand how cultural transmission shapes the structural properties of language.
+"My research" uses experimental and statistical models to understand how cultural transmission shapes the structural properties of language.
 
 At the Mint, I use referential communication games to investigate under what conditions graphic codes do and do not emerge in the laboratory. My current project explores how the emergence of optimal systems vary as a function of the mode (synchronous or asynchronous) and type (interpersonal or intrapersonal) of communication. Optimal is defined here as the most compressible set of form-meaning mappings capable of identifying the intended meaning. The basic idea being that optimal communication systems should be harder to achieve in some conditions (e.g., asynchronous + interpersonal) than others (e.g., synchronous + interpersonal).
 
