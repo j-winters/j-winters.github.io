@@ -2,8 +2,6 @@
 layout: default
 ---
 
-"My research" uses experimental and statistical models to understand how cultural transmission shapes the structural properties of language.
+I'm a cognitive scientist working in the domains of cultural evolution, language, and communication. My current academic home is at the [Max Planck Institute for the Science of Human History](http://www.shh.mpg.de/en) in Jena, where I'm a postdoctoral researcher with the [Minds and Traditions Research Group](http://www.shh.mpg.de/94549/themintgroup) (Group leader: [Olivier Morin](https://sites.google.com/site/sitedoliviermorin/)).
 
-At the Mint, I use referential communication games to investigate under what conditions graphic codes do and do not emerge in the laboratory. My current project explores how the emergence of optimal systems vary as a function of the mode (synchronous or asynchronous) and type (interpersonal or intrapersonal) of communication. Optimal is defined here as the most compressible set of form-meaning mappings capable of identifying the intended meaning. The basic idea being that optimal communication systems should be harder to achieve in some conditions (e.g., asynchronous + interpersonal) than others (e.g., synchronous + interpersonal).
-
-During my time at Edinburgh, I demonstrated that contextual factors interact with pressures found in learning and communication to shape the structure of language (see Winters, Kirby & Smith, 2015; Winters, Kirby & Smith, submitted to cognition). I’ve also written about the application of statistical approaches to large-scale, cross-cultural studies (see Roberts & Winters, 2013), and the associated pitfalls of not controlling for cultural evolutionary factors, such as shared inheritance and borrowing (see Roberts, Winters & Chen, 2015).
+Previously, I was based at the [University of Edinburgh](http://ed.ac.uk) in the [Centre for Language Evolution](http://www.lel.ed.ac.uk/cle/), and completed my PhD under the supervision of [Simon Kirby](http://www.lel.ed.ac.uk/~simon/) and [Kenny Smith](http://www.lel.ed.ac.uk/~kenny/).
