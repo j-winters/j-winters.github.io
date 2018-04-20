@@ -4,7 +4,7 @@ title: publications
 permalink: /publications/
 ---
 
-### Journal Articles
+### journal articles
 Morin, O., Winters, J., Müller, T.F., Morisseau, T., Etter, C., & Greenhill, S. (submitted). The "Color Game": What smartphone apps may contribute to language evolution research. *Journal of Language Evolution*.
 
 Morin, O., Winters, J., & Kelly, P. (submitted). Writing, graphic codes, and asynchronous communication. *topiCS*.
@@ -29,6 +29,38 @@ Roberts, S. G., & Winters, J. (2013). Linguistic diversity and traffic accidents
 
 Roberts, S. G., & Winters, J. (2012). Social structure and language structure: The new nomothetic approach. Psychology of Language and Communication, 16: 89-112. [[link](https://www.degruyter.com/downloadpdf/j/plc.2012.16.issue-2/v10057-012-0008-6/v10057-012-0008-6.pdf)]
 
-### Peer-reviewed conference proceedings
+### peer-reviewed conference proceedings
+Miton, H., Winters, J., Morin, O., Kelly, P. (2018). HBES.
 
-### Theses
+Müller, T.F., & Winters, J. (2018). HBES.
+
+Pavlek, B., Winters, J., & Morin, O. (2018). HBES.
+
+Winters, J., Morin, O., Miton, H., Kelly, P. (2018). Tartu.
+
+Müller, T.F., & Winters, J. (2018). Tartu.
+
+Pavlek, B., Winters, J., & Morin, O. (2018). Tartu.
+
+Winters, J., & Morin, O. (2018). EvoLang.
+
+Müller, T.F., Winters, J., & Morin, O. (2018). EvoLang.
+
+Müller, T.F., & Winters, J. (2017). CES.
+
+Winters, J., & Morin, O. (2017). Cultural Evolution Society.
+
+Winters, J., & Morin, O. (2017). EHBEA.
+
+Müller, T.F., Winters, J., & Morin, O. (2017). EHBEA.
+
+Winters, J., Kirby S., & Smith K. (2016). Signal Autonomy Is Shaped By Contextual Predictability. In S.G. Roberts, C. Cuskley, L. McCrohon, L. Barceló-Coblijn, O. Fehér & T. Verhoef (eds.) *The Evolution of Language: Proceedings of the 11th International Conference (EVOLANG11).* [[abstract](http://evolang.org/neworleans/papers/92.html)]
+
+Winters, J., Kirby, S., & Smith, K. (2014). Experimentally investigating the role of context in the structure of linguistic systems over cultural evolution. In: E.A. Cartmill et al, *Proceedings of the 10th International Conference (EVOLANG X)*.
+
+Littauer, R., Winters, J., Roberts, S.G., Little, H., Pleyer, M., & Benzon, B (2012). Academic research in the blogosphere: Adapting to new risks and opportunities on the Internet. In: Jan Christoph Meister (Ed.): *Digital Humanities 2012. Conference Abstracts*. University of Hamburg, July 16-22. Hamburg: Hamburg University Press, 268-269 [[abstract](http://www.dh2012.uni-hamburg.de/conference/programme/abstracts/academic-research-in-the-blogosphere-adapting-to-new-opportunities-and-risks-on-the-internet/)]
+
+Roberts, S. & Winters, J. (2012). Constructing Knowledge: Nomothetic approaches to language evolution. In: L. McCrohon, T et al, *Five Approaches to Language Evolution: Proceedings of the Workshops of the 9th International Conference on the Evolution of Language*. Evolang9 Organizing Committee.
+
+### thesis
+Winters, J. (2016). Context, Cognition, and Communication in language. Examiners: [Mike Frank](https://web.stanford.edu/~mcfrank/) and [Holly Branigan](https://www.ed.ac.uk/profile/holly-branigan).
