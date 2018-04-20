@@ -13,7 +13,7 @@ Müller, T.F., & Winters, J. (revise & resubmit). Compression effects in cultura
 
 Winters, J., & Morin, O. (revise & resubmit). From context to code: Information transfer constrains the emergence of graphic codes. *Cognitive Science*.
 
-Winters, J., Kirby, S., & Smith, K. (2018). Contextual predictability shapes signal autonomy. *Cognition*, 176:15-30. [link](https://www.sciencedirect.com/science/article/pii/S0010027718300647)
+Winters, J., Kirby, S., & Smith, K. (2018). Contextual predictability shapes signal autonomy. *Cognition*, 176:15-30. [[link](https://www.sciencedirect.com/science/article/pii/S0010027718300647)]
 
 Hartmann, S, Pleyer, M., Winters, J, & Zlatev, J. (2017). Interaction and iconicity in the evolution of language: Introduction to the special issue. *Interaction Studies*, 18(3):303-313. [link](http://www.jbe-platform.com/content/journals/10.1075/is.18.3.01ple)
 
