@@ -9,7 +9,7 @@ name: James Winters
 description: Aspiring [insert]
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar:  http://www.replicatedtypo.com/wp-content/uploads/2018/01/generation-i1.png
+avatar:  https://avatars1.githubusercontent.com/u/24321741?s=460&v=4
 
 #
 # Flags below are optional
@@ -18,7 +18,7 @@ avatar:  http://www.replicatedtypo.com/wp-content/uploads/2018/01/generation-i1.
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: winters@shh.mpg.de
   facebook:
   flickr:
   github: j-winters
