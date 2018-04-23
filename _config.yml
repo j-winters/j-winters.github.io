@@ -73,7 +73,8 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 plugins:
-  - jekyll-lazy_tweet_embedding
+  - lazy_tweet_embedding
+  #- jekyll-lazy_tweet_embedding
 
 # Use the following plug-ins
 gems:
