@@ -30,29 +30,17 @@ Roberts, S. G., & Winters, J. (2013). Linguistic diversity and traffic accidents
 Roberts, S. G., & Winters, J. (2012). Social structure and language structure: The new nomothetic approach. Psychology of Language and Communication, 16: 89-112. [[link](https://www.degruyter.com/downloadpdf/j/plc.2012.16.issue-2/v10057-012-0008-6/v10057-012-0008-6.pdf)]
 
 ### peer-reviewed conference proceedings
-Miton, H., Winters, J., Morin, O., Kelly, P. (2018). HBES.
+Winters, J., & Morin, O. (2018). From context to code: Shared information constrains the evolution of optimal codes. In C. Cuskley, M. Flaherty, H. Little, Luke McCrohon, A. Ravignani and T. Verhoef (eds.) *The Evolution of Language: Proceedings of the 12th International Conference (EVOLANGXII)* [[link](http://evolang.org/torun/proceedings/papertemplate.html?p=105)]
 
-Müller, T.F., & Winters, J. (2018). HBES.
+Müller, T., Morisseau, T., Winters, J., Morin, O. (2018). The influence of shared visual context on performance with novel codes in a referential communication game. In C. Cuskley, M. Flaherty, H. Little, Luke McCrohon, A. Ravignani and T. Verhoef (eds.) *The Evolution of Language: Proceedings of the 12th International Conference (EVOLANGXII)* [[link](http://evolang.org/torun/proceedings/papertemplate.html?p=103)]
 
-Pavlek, B., Winters, J., & Morin, O. (2018). HBES.
+Müller, T.F., & Winters, J. (2017). Cumulative culture and systematicity in “Place”: Compression, variation, and stability in a large-scale online “pixel art” collaboration. *Cultural Evolution Society 2017, Jena.* [[link](https://guidebook.com/guide/92067/poi/8360718/?pcat=447371)]
 
-Winters, J., Morin, O., Miton, H., Kelly, P. (2018). Tartu.
+Winters, J., & Morin, O. (2017). Information transfer constrains the cultural evolution of graphic codes. *Cultural Evolution Society 2017, Jena.* [[link](https://guidebook.com/guide/92067/poi/8360715/?pcat=447371)]
 
-Müller, T.F., & Winters, J. (2018). Tartu.
+Winters, J., & Morin, O. (2017). Emergence of optimal codes is contingent on the mode and function of communication. *European Human Behaviour and Evolution Conference 2017*. [[link](https://ehbea2017.sciencesconf.org/data/pages/Book_of_Abstracts_Completed_3.docx)]
 
-Pavlek, B., Winters, J., & Morin, O. (2018). Tartu.
-
-Winters, J., & Morin, O. (2018). EvoLang.
-
-Müller, T.F., Winters, J., & Morin, O. (2018). EvoLang.
-
-Müller, T.F., & Winters, J. (2017). CES.
-
-Winters, J., & Morin, O. (2017). Cultural Evolution Society.
-
-Winters, J., & Morin, O. (2017). EHBEA.
-
-Müller, T.F., Winters, J., & Morin, O. (2017). EHBEA.
+Müller, T., Morisseau, T., Winters, J., Morin, O. (2017). The Influence of Common Perceptual Context on the Evolution of Graphic Codes. *European Human Behaviour and Evolution Conference 2017*. [[link](https://ehbea2017.sciencesconf.org/data/pages/Book_of_Abstracts_Completed_3.docx)]
 
 Winters, J., Kirby S., & Smith K. (2016). Signal Autonomy Is Shaped By Contextual Predictability. In S.G. Roberts, C. Cuskley, L. McCrohon, L. Barceló-Coblijn, O. Fehér & T. Verhoef (eds.) *The Evolution of Language: Proceedings of the 11th International Conference (EVOLANG11).* [[abstract](http://evolang.org/neworleans/papers/92.html)]
 
