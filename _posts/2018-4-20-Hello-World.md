@@ -1,7 +1,6 @@
 ---
 layout: post
 comments: true
-plugins: lazy_tweet_embedding
 title: Hello world!
 ---
 
