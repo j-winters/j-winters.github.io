@@ -31,7 +31,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
-plugins: lazy_tweet_embedding
+#plugins: lazy_tweet_embedding
   #- jekyll-lazy_tweet_embedding
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
