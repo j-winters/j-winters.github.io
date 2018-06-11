@@ -5,13 +5,13 @@ permalink: /publications/
 ---
 
 ### journal articles
-Morin, O., Winters, J., Müller, T.F., Morisseau, T., Etter, C., & Greenhill, S. (submitted). The "Color Game": What smartphone apps may contribute to language evolution research. *Journal of Language Evolution*.
-
 Morin, O., Winters, J., & Kelly, P. (submitted). Writing, graphic codes, and asynchronous communication. *topiCS*.
 
 Müller, T.F., & Winters, J. (revise & resubmit). Compression effects in cultural evolution: Homogeneity and structure in the emergence and evolution of a large-scale online collaborative art project. *PLoS One*.
 
 Winters, J., & Morin, O. (revise & resubmit). From context to code: Information transfer constrains the emergence of graphic codes. *Cognitive Science*.
+
+Morin, O., Winters, J., Müller, T.F., Morisseau, T., Etter, C., & Greenhill, S. (2018). The "Color Game": What smartphone apps may contribute to language evolution research. *Journal of Language Evolution*. [[link](https://academic.oup.com/jole/advance-article-abstract/doi/10.1093/jole/lzy005/5033027?redirectedFrom=fulltext)]
 
 Winters, J., Kirby, S., & Smith, K. (2018). Contextual predictability shapes signal autonomy. *Cognition*, 176:15-30. [[link](https://www.sciencedirect.com/science/article/pii/S0010027718300647)]
 
