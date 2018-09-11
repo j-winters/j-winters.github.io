@@ -5,11 +5,11 @@ permalink: /publications/
 ---
 
 ### journal articles
-Morin, O., Winters, J., & Kelly, P. (submitted). Writing, graphic codes, and asynchronous communication. *topiCS*.
-
-Müller, T.F., & Winters, J. (revise & resubmit). Compression effects in cultural evolution: Homogeneity and structure in the emergence and evolution of a large-scale online collaborative art project. *PLoS One*.
+Morin, O., Winters, J., & Kelly, P. (in press). Writing, graphic codes, and asynchronous communication. *topiCS*.
 
 Winters, J., & Morin, O. (revise & resubmit). From context to code: Information transfer constrains the emergence of graphic codes. *Cognitive Science*.
+
+Müller, T.F., & Winters, J. (2018). Compression in cultural evolution: Homogeneity and structure in the emergence and evolution of a large-scale online collaborative art project. *PLoS One*. [[link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0202019)]
 
 Morin, O., Winters, J., Müller, T.F., Morisseau, T., Etter, C., & Greenhill, S. (2018). The "Color Game": What smartphone apps may contribute to language evolution research. *Journal of Language Evolution*. [[link](https://academic.oup.com/jole/advance-article-abstract/doi/10.1093/jole/lzy005/5033027?redirectedFrom=fulltext)]
 
