@@ -5,9 +5,11 @@ permalink: /publications/
 ---
 
 ### journal articles
-Morin, O., Winters, J., & Kelly, P. (in press). Writing, graphic codes, and asynchronous communication. *topiCS*.
+Müller, T., Winters, J., & Morin, O. (submitted). The influence of shared visual context on the successful emergence of conventions in a referential communication task. *Cognition*.
 
 Winters, J., & Morin, O. (revise & resubmit). From context to code: Information transfer constrains the emergence of graphic codes. *Cognitive Science*.
+
+Morin, O., Winters, J., & Kelly, P. (2018). Writing, graphic codes, and asynchronous communication. *topiCS*. "The Cultural Evolution of Cognition". Topic Editors: Andrea Bender, Sieghard Beller & Fiona Jordan. [[link](https://onlinelibrary.wiley.com/doi/10.1111/tops.12386)] 
 
 Müller, T.F., & Winters, J. (2018). Compression in cultural evolution: Homogeneity and structure in the emergence and evolution of a large-scale online collaborative art project. *PLoS One*. [[link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0202019)]
 
