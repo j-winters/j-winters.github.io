@@ -5,9 +5,9 @@ permalink: /publications/
 ---
 
 ### journal articles
-Müller, T., Winters, J., & Morin, O. (submitted). The influence of shared visual context on the successful emergence of conventions in a referential communication task. *Cognition*.
+Müller, T., Winters, J., & Morin, O. (submitted). The influence of shared visual context on the successful emergence of conventions in a referential communication task.
 
-Winters, J., & Morin, O. (revise & resubmit). From context to code: Information transfer constrains the emergence of graphic codes. *Cognitive Science*.
+Winters, J., & Morin, O. (revise & resubmit). From context to code: Information transfer constrains the emergence of graphic codes.
 
 Morin, O., Winters, J., & Kelly, P. (2018). Writing, graphic codes, and asynchronous communication. *topiCS*. "The Cultural Evolution of Cognition". Topic Editors: Andrea Bender, Sieghard Beller & Fiona Jordan. [[link](https://onlinelibrary.wiley.com/doi/10.1111/tops.12386)] 
 
