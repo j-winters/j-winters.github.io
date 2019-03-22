@@ -7,11 +7,11 @@ permalink: /publications/
 ### journal articles
 Pavlek, B., Winters, J., & Morin, O. (submitted). Ancient coin designs encoded increasing amounts of economic information over centuries.
 
-Müller, T., Winters, J., & Morin, O. (under review). The influence of shared visual context on the successful emergence of conventions in a referential communication task. *Cognitive Science*.
-
 Kelly, P., Winters, J., Miton, H., & Morin, O. (under review). The predictable evolution of letter shapes: An emergent script of West Africa recapitulates historical change in writing systems. *Current Anthropology*.
 
-Winters, J., & Morin, O. (revise & resubmit). From context to code: Information transfer constrains the emergence of graphic codes. *Cognitive Science*.
+Müller, T., Winters, J., & Morin, O. (resubmitted). The influence of shared visual context on the successful emergence of conventions in a referential communication task. *Cognitive Science*.
+
+Winters, J., & Morin, O. (2019). From context to code: Information transfer constrains the emergence of graphic codes. *Cognitive Science*. [[link](https://onlinelibrary.wiley.com/doi/abs/10.1111/cogs.12722)]
 
 Morin, O., Winters, J., & Kelly, P. (2018). Writing, graphic codes, and asynchronous communication. *topiCS*. "The Cultural Evolution of Cognition". Topic Editors: Andrea Bender, Sieghard Beller & Fiona Jordan. [[link](https://onlinelibrary.wiley.com/doi/10.1111/tops.12386)] 
 
