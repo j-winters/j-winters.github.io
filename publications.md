@@ -5,11 +5,13 @@ permalink: /publications/
 ---
 
 ### journal articles
+Winters, J. (submitted). Computational constraints limit the ability of cultural evolutionary dynamics to discover optimal solutions.
+
 Pavlek, B., Winters, J., & Morin, O. (submitted). Ancient coin designs encoded increasing amounts of economic information over centuries.
 
 Kelly, P., Winters, J., Miton, H., & Morin, O. (under review). The predictable evolution of letter shapes: An emergent script of West Africa recapitulates historical change in writing systems. *Current Anthropology*.
 
-Müller, T., Winters, J., & Morin, O. (resubmitted). The influence of shared visual context on the successful emergence of conventions in a referential communication task. *Cognitive Science*.
+Müller, T., Winters, J., & Morin, O. (under review). The influence of shared visual context on the successful emergence of conventions in a referential communication task. *Cognitive Science*.
 
 Winters, J., & Morin, O. (2019). From context to code: Information transfer constrains the emergence of graphic codes. *Cognitive Science*. [[link](https://onlinelibrary.wiley.com/doi/abs/10.1111/cogs.12722)]
 
