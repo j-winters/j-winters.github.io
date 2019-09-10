@@ -5,13 +5,15 @@ permalink: /publications/
 ---
 
 ### journal articles
-Winters, J. (submitted). Computational constraints limit the ability of cultural evolutionary dynamics to discover optimal solutions.
+Pavlek, B., Winters, J., & Morin, O. (revise and resubmit). Reverse engineering cash: Coin designs mark out high value differentials and coin sizes track values logarithmically.
 
-Pavlek, B., Winters, J., & Morin, O. (submitted). Ancient coin designs encoded increasing amounts of economic information over centuries.
+Winters, J. (resubmitted). Escaping optimization traps: The role of cultural adaptation and cultural exaptation in facilitating open-ended cumulative culture.
 
-Kelly, P., Winters, J., Miton, H., & Morin, O. (under review). The predictable evolution of letter shapes: An emergent script of West Africa recapitulates historical change in writing systems. *Current Anthropology*.
+Pavlek, B., Winters, J., & Morin, O. (resubmitted). Ancient coin designs encoded increasing amounts of economic information over centuries.
 
-Müller, T., Winters, J., & Morin, O. (under review). The influence of shared visual context on the successful emergence of conventions in a referential communication task. *Cognitive Science*.
+Kelly, P., Winters, J., Miton, H., & Morin, O. (resubmitted). The predictable evolution of letter shapes: An emergent script of West Africa recapitulates historical change in writing systems. *Current Anthropology*.
+
+Müller, T., Winters, J., & Morin, O. (2019). The influence of shared visual context on the successful emergence of conventions in a referential communication task. *Cognitive Science*. [[link](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12783)]
 
 Winters, J., & Morin, O. (2019). From context to code: Information transfer constrains the emergence of graphic codes. *Cognitive Science*. [[link](https://onlinelibrary.wiley.com/doi/abs/10.1111/cogs.12722)]
 
