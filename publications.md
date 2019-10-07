@@ -7,11 +7,11 @@ permalink: /publications/
 ### journal articles
 Pavlek, B., Winters, J., & Morin, O. (revise and resubmit). Reverse engineering cash: Coin designs mark out high value differentials and coin sizes track values logarithmically.
 
-Winters, J. (resubmitted). Escaping optimization traps: The role of cultural adaptation and cultural exaptation in facilitating open-ended cumulative culture.
-
-Pavlek, B., Winters, J., & Morin, O. (resubmitted). Ancient coin designs encoded increasing amounts of economic information over centuries.
-
 Kelly, P., Winters, J., Miton, H., & Morin, O. (resubmitted). The predictable evolution of letter shapes: An emergent script of West Africa recapitulates historical change in writing systems. *Current Anthropology*.
+
+Winters, J. (accepted). Escaping optimization traps: The role of cultural adaptation and cultural exaptation in facilitating open-ended cumulative culture. *Palgrave Communications*.
+
+Pavlek, B., Winters, J., & Morin, O. (in press). Ancient coin designs encoded increasing amounts of economic information over centuries. *Journal of Anthropological Archaeology*.
 
 Müller, T., Winters, J., & Morin, O. (2019). The influence of shared visual context on the successful emergence of conventions in a referential communication task. *Cognitive Science*. [[link](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12783)]
 
