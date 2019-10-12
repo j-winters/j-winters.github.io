@@ -11,7 +11,7 @@ Kelly, P., Winters, J., Miton, H., & Morin, O. (resubmitted). The predictable ev
 
 Winters, J. (accepted). Escaping optimization traps: The role of cultural adaptation and cultural exaptation in facilitating open-ended cumulative culture. *Palgrave Communications*.
 
-Pavlek, B., Winters, J., & Morin, O. (in press). Ancient coin designs encoded increasing amounts of economic information over centuries. *Journal of Anthropological Archaeology*.
+Pavlek, B., Winters, J., & Morin, O. (2019). Ancient coin designs encoded increasing amounts of economic information over centuries. *Journal of Anthropological Archaeology*. [[link](https://doi.org/10.1016/j.jaa.2019.101103)]
 
 Müller, T., Winters, J., & Morin, O. (2019). The influence of shared visual context on the successful emergence of conventions in a referential communication task. *Cognitive Science*. [[link](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12783)]
 
