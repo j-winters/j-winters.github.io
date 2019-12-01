@@ -5,10 +5,6 @@ permalink: /publications/
 ---
 
 ### journal articles
-Pavlek, B., Winters, J., & Morin, O. (resubmitted). Reverse engineering cash: Coin designs mark out high value differentials and coin sizes track values logarithmically. *Cognition*.
-
-Kelly, P., Winters, J., Miton, H., & Morin, O. (resubmitted). The predictable evolution of letter shapes: An emergent script of West Africa recapitulates historical change in writing systems. *Current Anthropology*.
-
 Winters, J. (2019). Escaping optimization traps: The role of cultural adaptation and cultural exaptation in facilitating open-ended cumulative culture. *Palgrave Communications*. [[link](https://www.nature.com/articles/s41599-019-0361-3)] [[repo](https://github.com/j-winters/cumulative)] [[tutorial](https://nextjournal.com/winters/cumulative-culture-in-open-ended-problem-spaces/)]
 
 Pavlek, B., Winters, J., & Morin, O. (2019). Ancient coin designs encoded increasing amounts of economic information over centuries. *Journal of Anthropological Archaeology*. [[link](https://doi.org/10.1016/j.jaa.2019.101103)]
@@ -38,6 +34,11 @@ Littauer, R., Roberts, S.G., Winters, J., Bailes, R., Pleyer, M., & Little, H. (
 Roberts, S. G., & Winters, J. (2013). Linguistic diversity and traffic accidents: Lessons from statistical studies of cultural traits. PLoS One, 8(8): e70902. [[link](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0070902)]
 
 Roberts, S. G., & Winters, J. (2012). Social structure and language structure: The new nomothetic approach. Psychology of Language and Communication, 16: 89-112. [[link](https://www.degruyter.com/downloadpdf/j/plc.2012.16.issue-2/v10057-012-0008-6/v10057-012-0008-6.pdf)]
+
+### submitted or under review
+Pavlek, B., Winters, J., & Morin, O. (resubmitted). Reverse engineering cash: Coin designs mark out high value differentials and coin sizes track values logarithmically. *Cognition*.
+
+Kelly, P., Winters, J., Miton, H., & Morin, O. (resubmitted). The predictable evolution of letter shapes: An emergent script of West Africa recapitulates historical change in writing systems. *Current Anthropology*.
 
 ### peer-reviewed conference proceedings
 Winters, J., & Morin, O. (2018). From context to code: Shared information constrains the evolution of optimal codes. In C. Cuskley, M. Flaherty, H. Little, Luke McCrohon, A. Ravignani and T. Verhoef (eds.) *The Evolution of Language: Proceedings of the 12th International Conference (EVOLANGXII)* [[link](http://evolang.org/torun/proceedings/papertemplate.html?p=105)]
