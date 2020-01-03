@@ -5,19 +5,19 @@ permalink: /publications/
 ---
 
 ### journal articles
-Winters, J. (2019). Escaping optimization traps: The role of cultural adaptation and cultural exaptation in facilitating open-ended cumulative culture. *Palgrave Communications*. [[link](https://www.nature.com/articles/s41599-019-0361-3)] [[repo](https://github.com/j-winters/cumulative)] [[tutorial](https://nextjournal.com/winters/cumulative-culture-in-open-ended-problem-spaces/)]
+Winters, J. (2019). Escaping optimization traps: The role of cultural adaptation and cultural exaptation in facilitating open-ended cumulative culture. *Palgrave Communications*, 5: 149. [[link](https://www.nature.com/articles/s41599-019-0361-3)] [[repo](https://github.com/j-winters/cumulative)] [[tutorial](https://nextjournal.com/winters/cumulative-culture-in-open-ended-problem-spaces/)]
 
-Pavlek, B., Winters, J., & Morin, O. (2019). Ancient coin designs encoded increasing amounts of economic information over centuries. *Journal of Anthropological Archaeology*. [[link](https://doi.org/10.1016/j.jaa.2019.101103)]
+Pavlek, B., Winters, J., & Morin, O. (2019). Ancient coin designs encoded increasing amounts of economic information over centuries. *Journal of Anthropological Archaeology*, 56: 101103. [[link](https://doi.org/10.1016/j.jaa.2019.101103)]
 
-Müller, T., Winters, J., & Morin, O. (2019). The influence of shared visual context on the successful emergence of conventions in a referential communication task. *Cognitive Science*. [[link](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12783)]
+Müller, T., Winters, J., & Morin, O. (2019). The influence of shared visual context on the successful emergence of conventions in a referential communication task. *Cognitive Science*, 43(9): e12783. [[link](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.12783)]
 
-Winters, J., & Morin, O. (2019). From context to code: Information transfer constrains the emergence of graphic codes. *Cognitive Science*. [[link](https://onlinelibrary.wiley.com/doi/abs/10.1111/cogs.12722)]
+Winters, J., & Morin, O. (2019). From context to code: Information transfer constrains the emergence of graphic codes. *Cognitive Science*, 43(3): e12722. doi: 10.1111/cogs.12722. [[link](https://onlinelibrary.wiley.com/doi/abs/10.1111/cogs.12722)]
 
 Morin, O., Winters, J., & Kelly, P. (2018). Writing, graphic codes, and asynchronous communication. *topiCS*. "The Cultural Evolution of Cognition". Topic Editors: Andrea Bender, Sieghard Beller & Fiona Jordan. [[link](https://onlinelibrary.wiley.com/doi/10.1111/tops.12386)] 
 
-Müller, T.F., & Winters, J. (2018). Compression in cultural evolution: Homogeneity and structure in the emergence and evolution of a large-scale online collaborative art project. *PLoS One*. [[link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0202019)]
+Müller, T.F., & Winters, J. (2018). Compression in cultural evolution: Homogeneity and structure in the emergence and evolution of a large-scale online collaborative art project. *PLoS One*, 13(9): e0202019. [[link](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0202019)]
 
-Morin, O., Winters, J., Müller, T.F., Morisseau, T., Etter, C., & Greenhill, S. (2018). The "Color Game": What smartphone apps may contribute to language evolution research. *Journal of Language Evolution*. [[link](https://academic.oup.com/jole/advance-article-abstract/doi/10.1093/jole/lzy005/5033027?redirectedFrom=fulltext)]
+Morin, O., Winters, J., Müller, T.F., Morisseau, T., Etter, C., & Greenhill, S. (2018). The "Color Game": What smartphone apps may contribute to language evolution research. *Journal of Language Evolution*, 3(2): 91–93. [[link](https://academic.oup.com/jole/advance-article-abstract/doi/10.1093/jole/lzy005/5033027?redirectedFrom=fulltext)]
 
 Winters, J., Kirby, S., & Smith, K. (2018). Contextual predictability shapes signal autonomy. *Cognition*, 176:15-30. [[link](https://www.sciencedirect.com/science/article/pii/S0010027718300647)]
 
@@ -29,11 +29,11 @@ Pleyer, M., & Winters, J. (2015). Integrating cognitive linguistics and language
 
 Winters, J., Kirby, S., & Smith, K. (2015). Languages adapt to their contextual niche. *Language and Cognition*, 7(3): 415-449. [[link](https://www.cambridge.org/core/journals/language-and-cognition/article/languages-adapt-to-their-contextual-niche/83E9F516875C340E0A9263B4A7C38F43)]
 
-Littauer, R., Roberts, S.G., Winters, J., Bailes, R., Pleyer, M., & Little, H. (2014). From the Savannah to the Cloud: Blogging Evolutionary Linguistics Research. In: The Past, Present and Future of Language Evolution Research, Eds., L. McCrohon, B. Thompson, T. Verhoef, H. Yamauchi. [[link](http://kyoto.evolang.org/sites/default/files/student_volume.pdf)]
+Littauer, R., Roberts, S.G., Winters, J., Bailes, R., Pleyer, M., & Little, H. (2014). From the Savannah to the Cloud: Blogging Evolutionary Linguistics Research. In: *The Past, Present and Future of Language Evolution Research*, Eds., L. McCrohon, B. Thompson, T. Verhoef, H. Yamauchi. [[link](http://kyoto.evolang.org/sites/default/files/student_volume.pdf)]
 
-Roberts, S. G., & Winters, J. (2013). Linguistic diversity and traffic accidents: Lessons from statistical studies of cultural traits. PLoS One, 8(8): e70902. [[link](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0070902)]
+Roberts, S. G., & Winters, J. (2013). Linguistic diversity and traffic accidents: Lessons from statistical studies of cultural traits. *PLoS One*, 8(8): e70902. [[link](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0070902)]
 
-Roberts, S. G., & Winters, J. (2012). Social structure and language structure: The new nomothetic approach. Psychology of Language and Communication, 16: 89-112. [[link](https://www.degruyter.com/downloadpdf/j/plc.2012.16.issue-2/v10057-012-0008-6/v10057-012-0008-6.pdf)]
+Roberts, S. G., & Winters, J. (2012). Social structure and language structure: The new nomothetic approach. *Psychology of Language and Communication*, 16: 89-112. [[link](https://www.degruyter.com/downloadpdf/j/plc.2012.16.issue-2/v10057-012-0008-6/v10057-012-0008-6.pdf)]
 
 ### submitted or under review
 Pavlek, B., Winters, J., & Morin, O. (resubmitted). Reverse engineering cash: Coin designs mark out high value differentials and coin sizes track values logarithmically. *Cognition*.
