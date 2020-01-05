@@ -36,7 +36,7 @@ Roberts, S. G., & Winters, J. (2013). Linguistic diversity and traffic accidents
 Roberts, S. G., & Winters, J. (2012). Social structure and language structure: The new nomothetic approach. *Psychology of Language and Communication*, 16: 89-112. [[link](https://www.degruyter.com/downloadpdf/j/plc.2012.16.issue-2/v10057-012-0008-6/v10057-012-0008-6.pdf)]
 
 ### submitted or under review
-Pavlek, B., Winters, J., & Morin, O. (resubmitted). Reverse engineering cash: Coin designs mark out high value differentials and coin sizes track values logarithmically. *Cognition*.
+Pavlek, B., Winters, J., & Morin, O. (accepted). Reverse engineering cash: Coin designs mark out high value differentials and coin sizes track values logarithmically. *Cognition*.
 
 Kelly, P., Winters, J., Miton, H., & Morin, O. (resubmitted). The predictable evolution of letter shapes: An emergent script of West Africa recapitulates historical change in writing systems. *Current Anthropology*.
 
