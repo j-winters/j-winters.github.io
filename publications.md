@@ -5,6 +5,8 @@ permalink: /publications/
 ---
 
 ### journal articles
+Pavlek, B., Winters, J., & Morin, O. (2020). Reverse engineering cash: Coin designs mark out high value differentials and coin sizes track values logarithmically. *Cognition*, 198: 104182. [[link](https://www.sciencedirect.com/science/article/pii/S0010027720300019?dgcid=author)].
+
 Winters, J. (2019). Escaping optimization traps: The role of cultural adaptation and cultural exaptation in facilitating open-ended cumulative culture. *Palgrave Communications*, 5: 149. [[link](https://www.nature.com/articles/s41599-019-0361-3)] [[repo](https://github.com/j-winters/cumulative)] [[tutorial](https://nextjournal.com/winters/cumulative-culture-in-open-ended-problem-spaces/)]
 
 Pavlek, B., Winters, J., & Morin, O. (2019). Ancient coin designs encoded increasing amounts of economic information over centuries. *Journal of Anthropological Archaeology*, 56: 101103. [[link](https://doi.org/10.1016/j.jaa.2019.101103)]
@@ -36,8 +38,6 @@ Roberts, S. G., & Winters, J. (2013). Linguistic diversity and traffic accidents
 Roberts, S. G., & Winters, J. (2012). Social structure and language structure: The new nomothetic approach. *Psychology of Language and Communication*, 16: 89-112. [[link](https://www.degruyter.com/downloadpdf/j/plc.2012.16.issue-2/v10057-012-0008-6/v10057-012-0008-6.pdf)]
 
 ### submitted or under review
-Pavlek, B., Winters, J., & Morin, O. (accepted). Reverse engineering cash: Coin designs mark out high value differentials and coin sizes track values logarithmically. *Cognition*.
-
 Kelly, P., Winters, J., Miton, H., & Morin, O. (resubmitted). The predictable evolution of letter shapes: An emergent script of West Africa recapitulates historical change in writing systems. *Current Anthropology*.
 
 ### peer-reviewed conference proceedings
