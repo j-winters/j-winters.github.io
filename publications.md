@@ -40,6 +40,8 @@ Roberts, S. G., & Winters, J. (2012). Social structure and language structure: T
 ### submitted, under review or in press
 Kelly, P., Winters, J., Miton, H., & Morin, O. (in press). The predictable evolution of letter shapes: An emergent script of West Africa recapitulates historical change in writing systems. *Current Anthropology*.
 
+Henschel, M., Winters, J., Müller, T.F., & Bräuer, J. (submitted). Effect of shared information and owner behaviour on showing in Dogs (*Canis familiaris*). 
+
 ### peer-reviewed conference proceedings
 Winters, J., & Morin, O. (2018). From context to code: Shared information constrains the evolution of optimal codes. In C. Cuskley, M. Flaherty, H. Little, Luke McCrohon, A. Ravignani and T. Verhoef (eds.) *The Evolution of Language: Proceedings of the 12th International Conference (EVOLANGXII)* [[link](http://evolang.org/torun/proceedings/papertemplate.html?p=105)]
 
