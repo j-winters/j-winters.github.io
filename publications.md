@@ -4,6 +4,9 @@ title: publications
 permalink: /publications/
 ---
 
+### in press
+Kelly, P., Winters, J., Miton, H., & Morin, O. (in press). The predictable evolution of letter shapes: An emergent script of West Africa recapitulates historical change in writing systems. *Current Anthropology*.
+
 ### journal articles
 Pavlek, B., Winters, J., & Morin, O. (2020). Reverse engineering cash: Coin designs mark out high value differentials and coin sizes track values logarithmically. *Cognition*, 198: 104182. [[link](https://www.sciencedirect.com/science/article/pii/S0010027720300019?dgcid=author)].
 
@@ -37,10 +40,10 @@ Roberts, S. G., & Winters, J. (2013). Linguistic diversity and traffic accidents
 
 Roberts, S. G., & Winters, J. (2012). Social structure and language structure: The new nomothetic approach. *Psychology of Language and Communication*, 16: 89-112. [[link](https://www.degruyter.com/downloadpdf/j/plc.2012.16.issue-2/v10057-012-0008-6/v10057-012-0008-6.pdf)]
 
-### submitted, under review or in press
-Kelly, P., Winters, J., Miton, H., & Morin, O. (in press). The predictable evolution of letter shapes: An emergent script of West Africa recapitulates historical change in writing systems. *Current Anthropology*.
+### submitted or under review
+Henschel, M., Winters, J., Müller, T.F., & Bräuer, J. (submitted). Effect of shared information and owner behaviour on showing in Dogs (*Canis familiaris*).
 
-Henschel, M., Winters, J., Müller, T.F., & Bräuer, J. (submitted). Effect of shared information and owner behaviour on showing in Dogs (*Canis familiaris*). 
+Müller, T.F., Winters, J., Morisseau, T., Noveck, I., & Morin, O. (submitted). Color terms: Natural language semantic structure and artificial language structure formation in a large-scale online smartphone application.
 
 ### peer-reviewed conference proceedings
 Winters, J., & Morin, O. (2018). From context to code: Shared information constrains the evolution of optimal codes. In C. Cuskley, M. Flaherty, H. Little, Luke McCrohon, A. Ravignani and T. Verhoef (eds.) *The Evolution of Language: Proceedings of the 12th International Conference (EVOLANGXII)* [[link](http://evolang.org/torun/proceedings/papertemplate.html?p=105)]
