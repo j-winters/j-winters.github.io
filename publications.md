@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 ### in press
-Kelly, P., Winters, J., Miton, H., & Morin, O. (in press). The predictable evolution of letter shapes: An emergent script of West Africa recapitulates historical change in writing systems. *Current Anthropology*.
+Kelly, P., Winters, J., Miton, H., & Morin, O. (in press). The predictable evolution of letter shapes: An emergent script of West Africa recapitulates historical change in writing systems. *Current Anthropology*. [[preprint](https://osf.io/preprints/socarxiv/eg489/)].
 
 ### journal articles
 Pavlek, B., Winters, J., & Morin, O. (2020). Reverse engineering cash: Coin designs mark out high value differentials and coin sizes track values logarithmically. *Cognition*, 198: 104182. [[link](https://www.sciencedirect.com/science/article/pii/S0010027720300019?dgcid=author)].
@@ -44,6 +44,8 @@ Roberts, S. G., & Winters, J. (2012). Social structure and language structure: T
 Henschel, M., Winters, J., Müller, T.F., & Bräuer, J. (submitted). Effect of shared information and owner behaviour on showing in Dogs (*Canis familiaris*).
 
 Müller, T.F., Winters, J., Morisseau, T., Noveck, I., & Morin, O. (submitted). Color terms: Natural language semantic structure and artificial language structure formation in a large-scale online smartphone application.
+
+Pavlek, B., Winters, J., & Morin, O. (submitted). Standards and quantification of coin iconography: possibilities and challenges. 
 
 ### peer-reviewed conference proceedings
 Winters, J., & Morin, O. (2018). From context to code: Shared information constrains the evolution of optimal codes. In C. Cuskley, M. Flaherty, H. Little, Luke McCrohon, A. Ravignani and T. Verhoef (eds.) *The Evolution of Language: Proceedings of the 12th International Conference (EVOLANGXII)* [[link](http://evolang.org/torun/proceedings/papertemplate.html?p=105)]
