@@ -4,6 +4,15 @@ title: publications
 permalink: /publications/
 ---
 
+### submitted or under review
+Morin, O., Müller, T.F., Morisseau, T., & Winters, J. (submitted). Contextual salience shapes the emergence and stability of semantic conventions.
+
+Müller, T.F., Winters, J., Morisseau, T., Noveck, I., & Morin, O. (submitted). Color terms: Natural language semantic structure and artificial language structure formation in a large-scale online smartphone application.
+
+Pavlek, B., Winters, J., & Morin, O. (submitted). Standards and quantification of coin iconography: possibilities and challenges.
+
+Henschel, M., Winters, J., Müller, T.F., & Bräuer, J. (submitted). Effect of shared information and owner behaviour on showing in Dogs (*Canis familiaris*).
+
 ### in press
 Kelly, P., Winters, J., Miton, H., & Morin, O. (in press). The predictable evolution of letter shapes: An emergent script of West Africa recapitulates historical change in writing systems. *Current Anthropology*. [[preprint](https://osf.io/preprints/socarxiv/eg489/)].
 
@@ -39,13 +48,6 @@ Littauer, R., Roberts, S.G., Winters, J., Bailes, R., Pleyer, M., & Little, H. (
 Roberts, S. G., & Winters, J. (2013). Linguistic diversity and traffic accidents: Lessons from statistical studies of cultural traits. *PLoS One*, 8(8): e70902. [[link](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0070902)]
 
 Roberts, S. G., & Winters, J. (2012). Social structure and language structure: The new nomothetic approach. *Psychology of Language and Communication*, 16: 89-112. [[link](https://www.degruyter.com/downloadpdf/j/plc.2012.16.issue-2/v10057-012-0008-6/v10057-012-0008-6.pdf)]
-
-### submitted or under review
-Henschel, M., Winters, J., Müller, T.F., & Bräuer, J. (submitted). Effect of shared information and owner behaviour on showing in Dogs (*Canis familiaris*).
-
-Müller, T.F., Winters, J., Morisseau, T., Noveck, I., & Morin, O. (submitted). Color terms: Natural language semantic structure and artificial language structure formation in a large-scale online smartphone application.
-
-Pavlek, B., Winters, J., & Morin, O. (submitted). Standards and quantification of coin iconography: possibilities and challenges. 
 
 ### peer-reviewed conference proceedings
 Winters, J., & Morin, O. (2018). From context to code: Shared information constrains the evolution of optimal codes. In C. Cuskley, M. Flaherty, H. Little, Luke McCrohon, A. Ravignani and T. Verhoef (eds.) *The Evolution of Language: Proceedings of the 12th International Conference (EVOLANGXII)* [[link](http://evolang.org/torun/proceedings/papertemplate.html?p=105)]
