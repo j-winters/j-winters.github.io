@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 ### submitted or under review
-Winters, J. (Submitted). Re-evaluating transmission fidelity and combinatorial innovation as drivers of technological evolution.
+Winters, J. (Submitted). Re-evaluating the role of cultural transmission and combinatorial innovation in the evolution of evolution.
 
 Morin, O., Müller, T.F., Morisseau, T., & Winters, J. (submitted). Contextual salience shapes the emergence and stability of semantic conventions.
 
@@ -13,9 +13,9 @@ Müller, T.F., Winters, J., Morisseau, T., Noveck, I., & Morin, O. (submitted). 
 
 Pavlek, B., Winters, J., & Morin, O. (submitted). Standards and quantification of coin iconography: possibilities and challenges.
 
-Henschel, M., Winters, J., Müller, T.F., & Bräuer, J. (submitted). Effect of shared information and owner behaviour on showing in Dogs (*Canis familiaris*).
+### in press or to appear
+Henschel, M., Winters, J., Müller, T.F., & Bräuer, J. (to appear). Effect of shared information and owner behaviour on showing in Dogs (*Canis familiaris*). *Animal Cognition*.
 
-### in press
 Kelly, P., Winters, J., Miton, H., & Morin, O. (in press). The predictable evolution of letter shapes: An emergent script of West Africa recapitulates historical change in writing systems. *Current Anthropology*. [[preprint](https://osf.io/preprints/socarxiv/eg489/)].
 
 ### journal articles
