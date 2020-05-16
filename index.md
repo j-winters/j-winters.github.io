@@ -7,3 +7,5 @@ I'm a cognitive scientist working in the domains of cultural evolution, language
 Previously, I was based at the [University of Edinburgh](http://ed.ac.uk) in the [Centre for Language Evolution](http://www.lel.ed.ac.uk/cle/), and completed my PhD under the supervision of [Simon Kirby](http://www.lel.ed.ac.uk/~simon/) and [Kenny Smith](http://www.lel.ed.ac.uk/~kenny/).
 
 I also founded a [Replicated Typo](http://www.replicatedtypo.com) (a group blog that focuses on the evolution of both language and culture).
+
+![](/images/areas.png)
