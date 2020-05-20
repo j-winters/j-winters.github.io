@@ -79,9 +79,7 @@ In particular, for all the advantages of transmission chains, they come with som
 
 The task is structured as follows. Imagine you flipped a coin ten times and counted the number of heads and tails. Let's say you saw 3 heads and 7 tails: your first step is to try and infer the underlying process that generated this frequency distribution. Is it *biased* or *unbiased*? We can model this relatively simply because coin flips follow a[ binomial distribution](https://en.wikipedia.org/wiki/Binomial_distribution). To compute this, we can use [Bayes' theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem):
 
-$$
-P(\theta | D)=\frac{P(D | \theta) P(\theta)}{P(D)}
-$$
+![P(\theta | D)=\frac{P(D | \theta) P(\theta)}{P(D)}](https://render.githubusercontent.com/render/math?math=P(%5Ctheta%20%7C%20D)%3D%5Cfrac%7BP(D%20%7C%20%5Ctheta)%20P(%5Ctheta)%7D%7BP(D)%7D)
 
 where $D$ is the observed sequence of 3 heads and 7 tails, $\theta$ is the space of possible hypotheses (e.g., $\theta = 0.5$ assumes the coin is unbiased, $\theta > 0.5$ is biased in favour of heads, and $\theta < 0.5$ is biased in favour of tails), and $P(\theta|D)$ is the conditional probability of the hypotheses given the data. The nice thing about Bayes' theorem is that it allows you to incorporate a prior, $P(\theta)$, which is used here to approximate the prior beliefs about the extent to which a coin is biased. 
 
