@@ -5,8 +5,6 @@ permalink: /publications/
 ---
 
 ### submitted or under review
-Winters, J. (Submitted). Re-evaluating the role of cultural transmission and combinatorial innovation in the evolution of technology.
-
 Morin, O., Müller, T.F., Morisseau, T., & Winters, J. (submitted). Contextual salience shapes the emergence and stability of semantic conventions.
 
 Müller, T.F., Winters, J., Morisseau, T., Noveck, I., & Morin, O. (submitted). Color terms: Natural language semantic structure and artificial language structure formation in a large-scale online smartphone application.
