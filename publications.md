@@ -12,11 +12,11 @@ Müller, T.F., Winters, J., Morisseau, T., Noveck, I., & Morin, O. (submitted). 
 Pavlek, B., Winters, J., & Morin, O. (submitted). Standards and quantification of coin iconography: possibilities and challenges.
 
 ### in press or to appear
-Henschel, M., Winters, J., Müller, T.F., & Bräuer, J. (to appear). Effect of shared information and owner behaviour on showing in Dogs (*Canis familiaris*). *Animal Cognition*.
-
 Kelly, P., Winters, J., Miton, H., & Morin, O. (in press). The predictable evolution of letter shapes: An emergent script of West Africa recapitulates historical change in writing systems. *Current Anthropology*. [[preprint](https://osf.io/preprints/socarxiv/eg489/)].
 
 ### journal articles
+Henschel, M., Winters, J., Müller, T.F., & Bräuer, J. (2020). Effect of shared information and owner behaviour on showing in Dogs (*Canis familiaris*). *Animal Cognition*. [[link](https://doi.org/10.1007/s10071-020-01409-9)].
+
 Pavlek, B., Winters, J., & Morin, O. (2020). Reverse engineering cash: Coin designs mark out high value differentials and coin sizes track values logarithmically. *Cognition*, 198: 104182. [[link](https://www.sciencedirect.com/science/article/pii/S0010027720300019?dgcid=author)].
 
 Winters, J. (2019). Escaping optimization traps: The role of cultural adaptation and cultural exaptation in facilitating open-ended cumulative culture. *Palgrave Communications*, 5: 149. [[link](https://www.nature.com/articles/s41599-019-0361-3)] [[repo](https://github.com/j-winters/cumulative)] [[tutorial](https://nextjournal.com/winters/cumulative-culture-in-open-ended-problem-spaces/)]
