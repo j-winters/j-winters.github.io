@@ -11,8 +11,10 @@ Müller, T.F., Winters, J., Morisseau, T., Noveck, I., & Morin, O. (submitted). 
 
 Pavlek, B., Winters, J., & Morin, O. (submitted). Standards and quantification of coin iconography: possibilities and challenges.
 
-### in press or to appear
-Kelly, P., Winters, J., Miton, H., & Morin, O. (in press). The predictable evolution of letter shapes: An emergent script of West Africa recapitulates historical change in writing systems. *Current Anthropology*. [[preprint](https://osf.io/preprints/socarxiv/eg489/)].
+### preprints
+Winters, J. (2020). Is the cultural evolution of technology cumulative or combinatorial? *SocArXiv*. [[preprint](https://osf.io/preprints/socarxiv/aypnx)].
+
+Kelly, P., Winters, J., Miton, H., & Morin, O. (2020). The predictable evolution of letter shapes: An emergent script of West Africa recapitulates historical change in writing systems. *in press at Current Anthropology*. [[preprint](https://osf.io/preprints/socarxiv/eg489/)].
 
 ### journal articles
 Henschel, M., Winters, J., Müller, T.F., & Bräuer, J. (2020). Effect of shared information and owner behaviour on showing in Dogs (*Canis familiaris*). *Animal Cognition*. [[link](https://doi.org/10.1007/s10071-020-01409-9)].
