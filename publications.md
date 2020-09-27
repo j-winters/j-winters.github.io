@@ -7,9 +7,9 @@ permalink: /publications/
 ### submitted or under review
 Morin, O., Müller, T.F., Morisseau, T., & Winters, J. (submitted). Contextual salience shapes the emergence and stability of semantic conventions.
 
-Müller, T.F., Winters, J., Morisseau, T., Noveck, I., & Morin, O. (submitted). Color terms: Natural language semantic structure and artificial language structure formation in a large-scale online smartphone application.
-
 Pavlek, B., Winters, J., & Morin, O. (submitted). Standards and quantification of coin iconography: possibilities and challenges.
+
+Müller, T.F., Winters, J., Morisseau, T., Noveck, I., & Morin, O. (under review). Color terms: Natural language semantic structure and artificial language structure formation in a large-scale online smartphone application.
 
 ### preprints
 Winters, J. (2020). Is the cultural evolution of technology cumulative or combinatorial? *SocArXiv*. [[preprint](https://osf.io/preprints/socarxiv/aypnx)].
