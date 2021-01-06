@@ -5,13 +5,13 @@ permalink: /publications/
 ---
 
 ### submitted or under review
-Morin, O., Müller, T.F., Morisseau, T., & Winters, J. (submitted). Contextual salience shapes the emergence and stability of semantic conventions.
-
 Pavlek, B., Winters, J., & Morin, O. (submitted). Standards and quantification of coin iconography: possibilities and challenges.
 
-Müller, T.F., Winters, J., Morisseau, T., Noveck, I., & Morin, O. (under review). Color terms: Natural language semantic structure and artificial language structure formation in a large-scale online smartphone application.
-
 ### preprints
+Morin, O., Müller, T.F., Morisseau, T., & Winters, J. (2020). Cultural evolution of precise and consensual semantic conventions in a multiplayer gaming app. [[preprint](https://pure.mpg.de/rest/items/item_3273644/component/file_3273645/content)].
+
+Müller, T.F., Winters, J., Morisseau, T., Noveck, I., & Morin, O. (2020). Color terms: Natural language semantic structure and artificial language structure formation in a large-scale online smartphone application. [[preprint](https://pure.mpg.de/rest/items/item_3274202/component/file_3274203/content)].
+
 Winters, J. (2020). Is the cultural evolution of technology cumulative or combinatorial? *SocArXiv*. [[preprint](https://osf.io/preprints/socarxiv/aypnx)].
 
 Kelly, P., Winters, J., Miton, H., & Morin, O. (2020). The predictable evolution of letter shapes: An emergent script of West Africa recapitulates historical change in writing systems. *in press at Current Anthropology*. [[preprint](https://osf.io/preprints/socarxiv/eg489/)].
