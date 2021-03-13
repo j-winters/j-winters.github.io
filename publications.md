@@ -10,11 +10,11 @@ Morin, O., Müller, T.F., Morisseau, T., & Winters, J. (2020). Cultural evolutio
 Winters, J. (2020). Is the cultural evolution of technology cumulative or combinatorial? *SocArXiv*. [[preprint](https://osf.io/preprints/socarxiv/aypnx)].
 
 ### journal articles
-Müller, T.F., Winters, J., Morisseau, T., Noveck, I., & Morin, O. (in press). Color terms: Natural language semantic structure and artificial language structure formation in a large-scale online smartphone application. *Journal of Cognitive Psychology* [[preprint](https://pure.mpg.de/rest/items/item_3274202/component/file_3274203/content)].
-
 Pavlek, B., Winters, J., & Morin, O. (in press). Standards and quantification of coin iconography: possibilities and challenges. *DSH: Digital Scholarship in the Humanities*.
 
 Kelly, P., Winters, J., Miton, H., & Morin, O. (in press). The predictable evolution of letter shapes: An emergent script of West Africa recapitulates historical change in writing systems. *Current Anthropology*. [[preprint](https://osf.io/preprints/socarxiv/eg489/)].
+
+Müller, T.F., Winters, J., Morisseau, T., Noveck, I., & Morin, O. (2021). Color terms: Natural language semantic structure and artificial language structure formation in a large-scale online smartphone application. *Journal of Cognitive Psychology* [[Link](https://www.tandfonline.com/doi/full/10.1080/20445911.2021.1900199)].
 
 Henschel, M., Winters, J., Müller, T.F., & Bräuer, J. (2020). Effect of shared information and owner behaviour on showing in Dogs (*Canis familiaris*). *Animal Cognition*. [[link](https://doi.org/10.1007/s10071-020-01409-9)].
 
