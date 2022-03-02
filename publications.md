@@ -5,12 +5,12 @@ permalink: /publications/
 ---
 
 ### preprints
-Morin, O., Müller, T.F., Morisseau, T., & Winters, J. (2020). Cultural evolution of precise and consensual semantic conventions in a multiplayer gaming app. [[preprint](https://pure.mpg.de/rest/items/item_3273644/component/file_3273645/content)].
-
 Winters, J. (2020). Is the cultural evolution of technology cumulative or combinatorial? *SocArXiv*. [[preprint](https://osf.io/preprints/socarxiv/aypnx)].
 
 ### journal articles
-Kelly, P., Winters, J., Miton, H., & Morin, O. (in press). The predictable evolution of letter shapes: An emergent script of West Africa recapitulates historical change in writing systems. *Current Anthropology*. [[preprint](https://osf.io/preprints/socarxiv/eg489/)].
+Morin, O., Müller, T.F., Morisseau, T., & Winters, J. (2022). Cultural evolution of precise and consensual semantic conventions in a multiplayer gaming app. *Cognitive Science*. [[Link](https://doi.org/10.1111/cogs.13113)] [[preprint](https://pure.mpg.de/rest/items/item_3273644/component/file_3273645/content)].
+
+Kelly, P., Winters, J., Miton, H., & Morin, O. (2022). The predictable evolution of letter shapes: An emergent script of West Africa recapitulates historical change in writing systems. *Current Anthropology*. [[Link](https://www.journals.uchicago.edu/doi/abs/10.1086/717779)] [[preprint](https://osf.io/preprints/socarxiv/eg489/)].
 
 Pavlek, B., Winters, J., & Morin, O. (2021). Standards and quantification of coin iconography: possibilities and challenges. *DSH: Digital Scholarship in the Humanities*. [[link](https://doi.org/10.1093/llc/fqab030)]
 
