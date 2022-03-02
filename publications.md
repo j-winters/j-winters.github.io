@@ -72,4 +72,4 @@ Littauer, R., Winters, J., Roberts, S.G., Little, H., Pleyer, M., & Benzon, B (2
 Roberts, S. & Winters, J. (2012). Constructing Knowledge: Nomothetic approaches to language evolution. In: L. McCrohon, T et al, *Five Approaches to Language Evolution: Proceedings of the Workshops of the 9th International Conference on the Evolution of Language*. Evolang9 Organizing Committee.
 
 ### thesis
-Winters, J. (2016). Context, Cognition, and Communication in language. Examiners: [Mike Frank](https://web.stanford.edu/~mcfrank/) and [Holly Branigan](https://www.ed.ac.uk/profile/holly-branigan).
+Winters, J. (2016). Context, Cognition, and Communication in language. Examiners: [Mike Frank](https://web.stanford.edu/~mcfrank/) and [Holly Branigan](https://www.ed.ac.uk/profile/holly-branigan). [[link](https://era.ed.ac.uk/handle/1842/23546)]
