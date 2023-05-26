@@ -8,7 +8,9 @@ permalink: /publications/
 Winters, J. (2020). Is the cultural evolution of technology cumulative or combinatorial? *SocArXiv*. [[preprint](https://osf.io/preprints/socarxiv/aypnx)].
 
 ### journal articles
-Charbonneau, M., Strachan J.W.A., & Winters, J. (2022). The problem with solutions: A commentary of “Blind alleys and fruitful pathways in the comparative study of cultural cognition” by Andrew Whiten. *Physics of Life Reviews*. [[link](https://doi.org/10.1016/j.plrev.2022.11.012)].
+Müller, T.F., Brinkmann, L., Winters, J., & Pescetelli, N. (2023). Machine Impostors Can Avoid Human Detection and Interrupt the Formation of Stable Conventions by Imitating Past Interactions: A Minimal Turing Test. *Cognitive Science*, 47(4): e13288. [[link](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.13288)].
+
+Charbonneau, M., Strachan J.W.A., & Winters, J. (2023). The problem with solutions: A commentary of “Blind alleys and fruitful pathways in the comparative study of cultural cognition” by Andrew Whiten. *Physics of Life Reviews*. [[link](https://doi.org/10.1016/j.plrev.2022.11.012)].
 
 Han, S.J., Kelly, P., Winters, J., & Kemp, C. (2022). Simplification Is Not Dominant in the Evolution of Chinese Characters. *Open Mind*. [[link](https://doi.org/10.1162/opmi_a_00064)].
 
