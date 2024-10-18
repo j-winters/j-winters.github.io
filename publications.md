@@ -5,6 +5,8 @@ permalink: /publications/
 ---
 
 ### preprints
+Kerssies, N., Segovia-Martin, J., & Winters, J. (2024). Connect-while-in-range: modelling the impact of spatial constraints on dynamic communication network structures. *arXiv*. [https://arxiv.org/abs/2410.13527](https://arxiv.org/abs/2410.13527).
+
 Winters, J. (2020). Is the cultural evolution of technology cumulative or combinatorial? *SocArXiv*. [[preprint](https://osf.io/preprints/socarxiv/aypnx)].
 
 ### journal articles
