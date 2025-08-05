@@ -5,11 +5,11 @@ permalink: /publications/
 ---
 
 ### preprints
-Kerssies, N., Segovia-Martin, J., & Winters, J. (2024). Connect-while-in-range: modelling the impact of spatial constraints on dynamic communication network structures. *arXiv*. [https://arxiv.org/abs/2410.13527](https://arxiv.org/abs/2410.13527).
-
 Winters, J. (2020). Is the cultural evolution of technology cumulative or combinatorial? *SocArXiv*. [[preprint](https://osf.io/preprints/socarxiv/aypnx)].
 
 ### journal articles
+Kerssies, N., Segovia-Martin, J., & Winters, J. (2024). Connect-while-in-range: modelling the impact of spatial constraints on dynamic communication network structures. *PLOS Complex Systems*. [[link](https://doi.org/10.1371/journal.pcsy.0000051)] [[preprint](https://arxiv.org/abs/2410.13527)].
+
 Winters, J. (2023).  Graphic codes, language, and the computational niche. *Behavioral and Brain Sciences*, 46, E256. [[link](https://doi.org/10.1017/S0140525X23000614)]. A commentary on [Morin (2022)](https://doi.org/10.1017/S0140525X22002801).
 
 Segovia-Martin, J., Creutzig, F., & Winters, J. (2023). Efficiency traps beyond the climate crisis: exploration–exploitation trade-offs and rebound effects. *Philosophical Transactions of the Royal Society B*, 378: 20220405. [[link](https://royalsocietypublishing.org/doi/10.1098/rstb.2022.0405)].
