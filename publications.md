@@ -5,6 +5,8 @@ permalink: /publications/
 ---
 
 ### preprints
+Winters, J. & Charbonneau, M. (2025). Modelling the emergence of open-ended technological evolution. *arXiv*. [[preprint](https://arxiv.org/abs/2508.04828)].
+
 Winters, J. (2020). Is the cultural evolution of technology cumulative or combinatorial? *SocArXiv*. [[preprint](https://osf.io/preprints/socarxiv/aypnx)].
 
 ### journal articles
