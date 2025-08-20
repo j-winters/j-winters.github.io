@@ -14,7 +14,7 @@ Kerssies, N., Segovia-Martin, J., & Winters, J. (2025). Connect-while-in-range: 
 
 Winters, J. (2023).  Graphic codes, language, and the computational niche. *Behavioral and Brain Sciences*, 46, E256. [[commentary](https://doi.org/10.1017/S0140525X23000614)] [[preprint](https://doi.org/10.31235/osf.io/tkjgn_v2)]. A commentary on [Morin (2022)](https://doi.org/10.1017/S0140525X22002801).
 
-Segovia-Martin, J., Creutzig, F., & Winters, J. (2023). Efficiency traps beyond the climate crisis: exploration–exploitation trade-offs and rebound effects. *Philosophical Transactions of the Royal Society B*, 378: 20220405. [[paper](https://royalsocietypublishing.org/doi/10.1098/rstb.2022.0405)].
+Segovia-Martin, J., Creutzig, F., & Winters, J. (2023). Efficiency traps beyond the climate crisis: exploration–exploitation trade-offs and rebound effects. *Philosophical Transactions of the Royal Society B*, 378: 20220405. [[paper](https://royalsocietypublishing.org/doi/10.1098/rstb.2022.0405)] [[preprint](https://jsegoviamartin.github.io/Efficiency_traps_PTRS_in_press_article_2023.pdf)] [[app](jevons-collectiveintelligence.pythonanywhere.com)].
 
 Müller, T.F., Brinkmann, L., Winters, J., & Pescetelli, N. (2023). Machine Impostors Can Avoid Human Detection and Interrupt the Formation of Stable Conventions by Imitating Past Interactions: A Minimal Turing Test. *Cognitive Science*, 47(4): e13288. [[paper](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.13288)].
 
