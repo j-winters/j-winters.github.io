@@ -5,11 +5,13 @@ permalink: /publications/
 ---
 
 ### preprints
-Winters, J. & Charbonneau, M. (2025). Modelling the emergence of open-ended technological evolution. *arXiv*. [[preprint](https://arxiv.org/abs/2508.04828)] [[repo](https://github.com/j-winters/bitw0r1d)] [[thread](https://bsky.app/profile/replicatedtypo.bsky.social/post/3lwhakp5l3s2v)].
+Winters, J. & Charbonneau, M. (2025). Modelling the emergence of open-ended cultural evolution. *arXiv*. [[preprint](https://arxiv.org/abs/2508.04828)] [[repo](https://github.com/j-winters/bitw0r1d)] [[thread](https://bsky.app/profile/replicatedtypo.bsky.social/post/3lwhakp5l3s2v)].
 
 Winters, J. (2020). Is the cultural evolution of technology cumulative or combinatorial? *SocArXiv*. [[preprint](https://osf.io/preprints/socarxiv/aypnx)].
 
 ### journal articles
+Winters, J. & Charbonneau, M. (forthcoming). Subjective selection needs socially transmitted goals and culturally evolving problems. *Behavioral and Brain Sciences*. [[preprint](tba)]. A commentary on [Singh (2025)](https://doi.org/10.1017/S0140525X25100617)].
+
 Kerssies, N., Segovia-Martin, J., & Winters, J. (2025). Connect-while-in-range: modelling the impact of spatial constraints on dynamic communication network structures. *PLOS Complex Systems*. [[paper](https://doi.org/10.1371/journal.pcsy.0000051)] [[preprint](https://arxiv.org/abs/2410.13527)].
 
 Winters, J. (2023).  Graphic codes, language, and the computational niche. *Behavioral and Brain Sciences*, 46, E256. [[commentary](https://doi.org/10.1017/S0140525X23000614)] [[preprint](https://doi.org/10.31235/osf.io/tkjgn_v2)]. A commentary on [Morin (2022)](https://doi.org/10.1017/S0140525X22002801).
