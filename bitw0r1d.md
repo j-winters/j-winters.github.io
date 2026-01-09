@@ -1,5 +1,4 @@
 ---
-layout: raw
 permalink: /bitw0r1d/
 ---
 <!DOCTYPE html>
