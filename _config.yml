@@ -80,6 +80,10 @@ plugins:
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
   - lazy_tweet_embedding
 
+# Include bitw0r1d simulation
+include:
+  - bitw0r1d.html
+
 # Exclude these files from your production _site
 exclude:
   - Gemfile
