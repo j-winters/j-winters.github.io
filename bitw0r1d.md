@@ -314,9 +314,9 @@ permalink: /bitw0r1d/
                 <p>
                   <strong>How it works:</strong> Both cultural systems and search spaces are represented as bitstrings that can change via modifications (flipping a randomly selected bit to its opposite value), expansions (inserting a new random chosen bit), and 
                   simplifications (where a randomly chosen bit is deleted). Changes can either increase or decrease the match between cultural systems and search spaces (measured as "effectiveness").
-                  The challenge facing the dynamics is produce resources. Resources fund evolutionary changes to both cultural systems and search spaces.
-                  There are two ways to increase resources: (i) by improving the match (or fit) between cultural systems or search spaces, and (ii) to expand the search space (which serves as an upper-bound on the maximum obtainable resources).
-                  Societies start with an initial resource buffer and will collapse if resources run out. The simulation shows whether societies can sustain co-evolution and potentially achieve open-ended growth in complexity.
+                  Critically, societies need to produce resources in order to fund evolutionary changes to both cultural systems and search spaces.
+                  There are two ways to increase resources here: (i) by improving the match (or fit) between cultural systems or search spaces, or (ii) by expanding the search space (which serves as an upper-bound on the maximum obtainable resources).
+                  Societies start with an initial resource buffer and will collapse if resources run out. The simulation shows whether societies can sustain co-evolution and achieve open-ended dynamics.
                 </p>
                 <p>
                   <strong>Key parameters:</strong> <em>η (eta)</em> controls how much selection pressure acts on cultural systems 
@@ -324,6 +324,11 @@ permalink: /bitw0r1d/
                   <em>λ (lambda)</em> does the same for search spaces (0 = purely random changes, 1 = only accept improvements that increase the fit with the existing cultural system). 
                   The <em>tradeoff (p)</em> determines how resources are split between changing cultural systems versus search spaces. 
                   You can also set the initial complexity of cultural systems and search spaces as well as change the random seed before running.
+                </p>
+                <p>
+                  <strong>Measures:</strong> Once the simulation is running, you will see both bitstrings for cultural systems and search spaces as they change over time.
+                  You will also see values for <em>Effectiveness</em> (the normalised distance between cultural systems and search spaces, ranging from 0 to 1 where 1 is a perfect match), <em>Complexity</em> (the length of the bitstrings, where longer strings denote more complex cultural systems and search spaces),
+                  <em>Available Resources</em> (the resources a society actually has to work with each generation), and the <em>Resource Store</em> (set at 100 by default; backup resources to use if the available resources drops below 1).
                 </p>
                 <p>
                   <strong>Things to try:</strong> Try setting the initial complexity for cultural systems and search spaces to ℓ=2. 
@@ -536,7 +541,7 @@ permalink: /bitw0r1d/
                   <div className="bg-gradient-to-br from-purple-50 to-purple-100 p-4 rounded-lg">
                     <div className="text-sm font-semibold text-slate-600">Effectiveness (E)</div>
                     <div className="text-2xl font-bold text-purple-700">{effectiveness.toFixed(3)}</div>
-                    <div className="text-xs text-slate-500 mt-1">Inverted normalized Levenshtein distance</div>
+                    <div className="text-xs text-slate-500 mt-1">The distance between cultural systems and search spaces</div>
                   </div>
                   <div className="bg-gradient-to-br from-green-50 to-green-100 p-4 rounded-lg">
                     <div className="text-sm font-semibold text-slate-600">Available Resources</div>
