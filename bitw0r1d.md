@@ -309,11 +309,11 @@ permalink: /bitw0r1d/
                   This is an online simulation of the bitw0r1d model presented in <a href="https://arxiv.org/abs/2508.04828">Winters & Charbonneau (2026)</a>.
                   In bitw0r1d, we model the co-evolutionary relationship between <strong>cultural systems</strong> (the repetoire of techniques, artifacts, norms and knowledge available to a society)
                   and <strong>search spaces</strong> (the needs, problems and goals faced by societies at a given point in time).
-                  In our paper, we were interested in how cultural systems and search spaces co-evolved with one another, especially with respect to the conditions in which this led to open-ended dynamics.
+                  In our paper, we were interested in how cultural systems and search spaces co-evolved with one another, especially with respect to the emergence of open-ended dynamics.
                 </p>
                 <p>
                   <strong>How it works:</strong> Both cultural systems and search spaces are represented as bitstrings that can change via modifications (flipping a randomly selected bit to its opposite value), expansions (inserting a new random chosen bit), and 
-                  simplifications (where a randomly chosen bit is deleted). Changes can either decrease the match between cultural systems and search spaces (measured as "effectiveness").
+                  simplifications (where a randomly chosen bit is deleted). Changes can either increase or decrease the match between cultural systems and search spaces (measured as "effectiveness").
                   The challenge facing the dynamics is produce resources. Resources fund evolutionary changes to both cultural systems and search spaces.
                   There are two ways to increase resources: (i) by improving the match (or fit) between cultural systems or search spaces, and (ii) to expand the search space (which serves as an upper-bound on the maximum obtainable resources).
                   Societies start with an initial resource buffer and will collapse if resources run out. The simulation shows whether societies can sustain co-evolution and potentially achieve open-ended growth in complexity.
