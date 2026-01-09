@@ -2,6 +2,8 @@
 layout: null
 permalink: /bitw0r1d/
 ---
+<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
