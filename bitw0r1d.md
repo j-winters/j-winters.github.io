@@ -2,8 +2,6 @@
 layout: raw
 permalink: /bitw0r1d/
 ---
-<!DOCTYPE html>
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -715,4 +713,3 @@ permalink: /bitw0r1d/
         root.render(React.createElement(BitstringEvolution));
     </script>
 </body>
-</html>
