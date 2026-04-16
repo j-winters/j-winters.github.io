@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 ### preprints
-Winters, J. & Charbonneau, M. (forthcoming). Subjective selection needs socially transmitted goals and culturally evolving problems. *Behavioral and Brain Sciences*. [[preprint](https://osf.io/preprints/socarxiv/52z7k_v1)]. A commentary on [Singh (2025)](https://doi.org/10.1017/S0140525X25100617)].
+Winters, J. & Charbonneau, M. (forthcoming). Subjective selection needs socially transmitted goals and culturally evolving problems. *Behavioral and Brain Sciences*. [[preprint](https://osf.io/preprints/socarxiv/52z7k_v1)]. A commentary on [Singh (2025)](https://doi.org/10.1017/S0140525X25100617).
 
 Winters, J. (2020). Is the cultural evolution of technology cumulative or combinatorial? *SocArXiv*. [[preprint](https://osf.io/preprints/socarxiv/aypnx)].
 
