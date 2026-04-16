@@ -5,18 +5,20 @@ permalink: /publications/
 ---
 
 ### preprints
-Winters, J. & Charbonneau, M. (2025). Modelling the emergence of open-ended cultural evolution. *arXiv*. [[preprint](https://arxiv.org/abs/2508.04828)] [[repo](https://github.com/j-winters/bitw0r1d)] [[thread](https://bsky.app/profile/replicatedtypo.bsky.social/post/3lwhakp5l3s2v)].
+Winters, J. & Charbonneau, M. (forthcoming). Subjective selection needs socially transmitted goals and culturally evolving problems. *Behavioral and Brain Sciences*. [[preprint](https://osf.io/preprints/socarxiv/52z7k_v1)]. A commentary on [Singh (2025)](https://doi.org/10.1017/S0140525X25100617)].
 
 Winters, J. (2020). Is the cultural evolution of technology cumulative or combinatorial? *SocArXiv*. [[preprint](https://osf.io/preprints/socarxiv/aypnx)].
 
 ### journal articles
-Winters, J. & Charbonneau, M. (forthcoming). Subjective selection needs socially transmitted goals and culturally evolving problems. *Behavioral and Brain Sciences*. [[preprint](tba)]. A commentary on [Singh (2025)](https://doi.org/10.1017/S0140525X25100617)].
+Winters, J. & Charbonneau, M. (2026). Modelling the emergence of open-ended cultural evolution. *Philosophical Transactions of the Royal Society B: Biological Sciences*. [[paper]( https://doi.org/10.1098/rstb.2025.0255)] [[preprint](https://arxiv.org/abs/2508.04828)] [[repo](https://github.com/j-winters/bitw0r1d)] [[thread](https://bsky.app/profile/replicatedtypo.bsky.social/post/3lwhakp5l3s2v)].
+
+Seabright, E., Alami, S., Borgerhoff Mulder, M., O'Madagain, C., Segovia-Martin, J., Smaldino, P., Winters, J., & Whiten, A. (2026). The evolutionary past and future of collective intelligence: introduction to the theme issue. *Philosophical Transactions of the Royal Society B: Biological Sciences*, 381(1948): 20240439. [[paper](https://doi.org/10.1098/rstb.2024.0439)].
 
 Kerssies, N., Segovia-Martin, J., & Winters, J. (2025). Connect-while-in-range: modelling the impact of spatial constraints on dynamic communication network structures. *PLOS Complex Systems*. [[paper](https://doi.org/10.1371/journal.pcsy.0000051)] [[preprint](https://arxiv.org/abs/2410.13527)].
 
 Winters, J. (2023).  Graphic codes, language, and the computational niche. *Behavioral and Brain Sciences*, 46, E256. [[commentary](https://doi.org/10.1017/S0140525X23000614)] [[preprint](https://doi.org/10.31235/osf.io/tkjgn_v2)]. A commentary on [Morin (2022)](https://doi.org/10.1017/S0140525X22002801).
 
-Segovia-Martin, J., Creutzig, F., & Winters, J. (2023). Efficiency traps beyond the climate crisis: exploration–exploitation trade-offs and rebound effects. *Philosophical Transactions of the Royal Society B*, 378: 20220405. [[paper](https://royalsocietypublishing.org/doi/10.1098/rstb.2022.0405)] [[preprint](https://jsegoviamartin.github.io/Efficiency_traps_PTRS_in_press_article_2023.pdf)] [[app](https://jevons-collectiveintelligence.pythonanywhere.com)].
+Segovia-Martin, J., Creutzig, F., & Winters, J. (2023). Efficiency traps beyond the climate crisis: exploration–exploitation trade-offs and rebound effects. *Philosophical Transactions of the Royal Society B: Biological Sciences*, 378: 20220405. [[paper](https://royalsocietypublishing.org/doi/10.1098/rstb.2022.0405)] [[preprint](https://jsegoviamartin.github.io/Efficiency_traps_PTRS_in_press_article_2023.pdf)] [[app](https://jevons-collectiveintelligence.pythonanywhere.com)].
 
 Müller, T.F., Brinkmann, L., Winters, J., & Pescetelli, N. (2023). Machine Impostors Can Avoid Human Detection and Interrupt the Formation of Stable Conventions by Imitating Past Interactions: A Minimal Turing Test. *Cognitive Science*, 47(4): e13288. [[paper](https://onlinelibrary.wiley.com/doi/full/10.1111/cogs.13288)].
 
