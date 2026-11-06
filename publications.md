@@ -5,11 +5,11 @@ permalink: /publications/
 ---
 
 ### preprints
-Winters, J. & Charbonneau, M. (forthcoming). Subjective selection needs socially transmitted goals and culturally evolving problems. *Behavioral and Brain Sciences*. [[preprint](https://osf.io/preprints/socarxiv/52z7k_v1)]. A commentary on [Singh (2025)](https://doi.org/10.1017/S0140525X25100617).
-
 Winters, J. (2020). Is the cultural evolution of technology cumulative or combinatorial? *SocArXiv*. [[preprint](https://osf.io/preprints/socarxiv/aypnx)].
 
 ### journal articles
+Winters, J. & Charbonneau, M. (2026). Subjective selection needs socially transmitted goals and culturally evolving problems. *Behavioral and Brain Sciences*. [[preprint](https://osf.io/preprints/socarxiv/52z7k_v1)]. A commentary on [Singh (2025)](https://doi.org/10.1017/S0140525X25100617).
+
 Winters, J. & Charbonneau, M. (2026). Modelling the emergence of open-ended cultural evolution. *Philosophical Transactions of the Royal Society B: Biological Sciences*. [[paper]( https://doi.org/10.1098/rstb.2025.0255)] [[preprint](https://arxiv.org/abs/2508.04828)] [[repo](https://github.com/j-winters/bitw0r1d)] [[thread](https://bsky.app/profile/replicatedtypo.bsky.social/post/3lwhakp5l3s2v)].
 
 Seabright, E., Alami, S., Borgerhoff Mulder, M., O'Madagain, C., Segovia-Martin, J., Smaldino, P., Winters, J., & Whiten, A. (2026). The evolutionary past and future of collective intelligence: introduction to the theme issue. *Philosophical Transactions of the Royal Society B: Biological Sciences*, 381(1948): 20240439. [[paper](https://doi.org/10.1098/rstb.2024.0439)].
