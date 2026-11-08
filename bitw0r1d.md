@@ -644,7 +644,7 @@ function createEngine(post) {
   const SPEEDS = [1, 2, 5, 10, 20, 50, 100, 200, Infinity]; // generations per second
   const DEFAULT_SPEED = 3;                                 // 10 per second
   const STRIP_THRESHOLD = 200;                             // longer strings are drawn as a pixel strip
-  const PAPER_URL = 'https://arxiv.org/abs/2508.04828';
+  const PAPER_URL = 'https://doi.org/10.1098/rstb.2025.0255';
   const REPO_URL = 'https://github.com/j-winters/bitw0r1d';
   const LICENCE_URL = 'https://github.com/j-winters/bitw0r1d/blob/main/LICENSE';
   const EMAIL = 'james.winters@brunel.ac.uk';
@@ -1193,7 +1193,7 @@ function createEngine(post) {
       <header>
         <h1>bitw<span style=${css({ color: COLOURS.cult })}>0</span>r<span style=${css({ color: COLOURS.space })}>1</span>d</h1>
         <p className="subtitle">A co-evolutionary model of cultural systems and search spaces</p>
-        <p className="intro">An online version of the bitw0r1d model from <a href=${PAPER_URL}>Winters & Charbonneau (2026)</a>. It simulates how a society's cultural system and its search space (the problems and goals it faces) change each other over time. Every change costs resources, and the society collapses if its resources run out. Press Run to start, or open the sections below for details.</p>
+        <p className="intro">An online version of the bitw0r1d model from <a href=${PAPER_URL}>Winters & Charbonneau (2026)</a>. It simulates how a society's cultural system and its search space change each other over time. Every change costs resources, and the society collapses if its resources run out. Press Run to start, or open the sections below for details.</p>
       </header>
 
       <${Info} />
@@ -1240,7 +1240,7 @@ function createEngine(post) {
       <footer className="footer">
         <div>
           <h2>How to cite</h2>
-          <p>Winters, J., & Charbonneau, M. (2026). Modelling the emergence of open-ended technological evolution. <a href=${PAPER_URL}>arXiv:2508.04828</a>.</p>
+          <p>Winters, J., & Charbonneau, M. (2026). Modelling the emergence of open-ended technological evolution. <a href=${PAPER_URL}>10.1098/rstb.2025.0255</a>.</p>
         </div>
         <div>
           <h2>Source code</h2>
