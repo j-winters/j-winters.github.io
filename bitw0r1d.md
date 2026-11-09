@@ -1193,7 +1193,7 @@ function createEngine(post) {
       <header>
         <h1>bitw<span style=${css({ color: COLOURS.cult })}>0</span>r<span style=${css({ color: COLOURS.space })}>1</span>d</h1>
         <p className="subtitle">A co-evolutionary model of cultural systems and search spaces</p>
-        <p className="intro">An online version of the bitw0r1d model from <a href=${PAPER_URL}>Winters & Charbonneau (2026)</a>. It simulates how a society's cultural system and its search space change each other over time. Every change costs resources, and the society collapses if its resources run out. Press Run to start, or open the sections below for details.</p>
+        <p className="intro">An online version of the bitw0r1d model from <a href=${PAPER_URL}>Winters & Charbonneau (2026)</a>. It simulates how cultural systems and search spaces co-evolve with each other over time. The dynamics of the model are resource-constrained, i.e., every change costs resources and the dynamics collapse if resources run out. Press Run to start, or open the sections below for more details.</p>
       </header>
 
       <${Info} />
